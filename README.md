@@ -36,7 +36,7 @@ HTML, CSS, JS, Reactjs, Redux, Tailwind, RapidAPI
 To deploy this project run
 
 ```bash
- https://comfy-kringle-1d5048.netlify.app/
+ https://spotifyclone254.netlify.app/
 ```
 
 
